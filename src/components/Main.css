@@ -1,0 +1,33 @@
+.hand{
+    color: aliceblue;
+    font-weight: 700;
+    line-height: 2.25rem;
+}
+.container{
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+.home-content{  
+    flex: 2;
+}
+main{
+    line-height: 1.6;
+}
+.home-image {
+    flex: 1;
+    max-width: 200px;
+    margin-left: 20px;
+}
+.img-rounded{
+    height: 190px;
+    border-radius: 50%;
+    width: 100%;
+}
+.featured-posts{
+    color: #fff;
+}
+ul > li{
+    color: #fff;
+    list-style-type: disc;
+}

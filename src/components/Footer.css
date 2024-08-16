@@ -1,0 +1,29 @@
+footer{
+    justify-content: center;
+    padding: 25px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;    
+}
+
+.social-links{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    border: 1px solid #333;
+    padding: 5px;
+}
+
+/* .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    border: 1px solid #333;  
+    padding: 5px;
+    border-radius: 5px;  
+    box-sizing: border-box; 
+    box-shadow: 0 2px 5px rgba(45, 38, 38, 0.3); 
+} 
+*/
+
