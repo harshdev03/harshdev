@@ -24,7 +24,7 @@ function Main() {
             </p>
           </div>
           <div className="home-img">
-            <img src="harsh.jpg" alt="logo" className="img-rounded" />
+            <img src="harsh2.jpg" alt="logo" className="img-rounded" height={"50px"} />
           </div>
         </div>
 
