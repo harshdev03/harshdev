@@ -9,18 +9,7 @@ function Main() {
         <div className="container">
           <div className="home-content">
             <p>
-              I'm Harsh, a tech enthusiast with a sharp, strategic mindset,
-              always on the lookout for ways to fuse business with cutting-edge
-              technology. My curiosity drives me to explore new tech, especially
-              languages and logic, ensuring every solution I create is efficient
-              and impactful.
-            </p>
-
-            <p>
-              Beyond my tech pursuits, I'm passionate about refining business
-              strategies. When I'm not brainstorming the next big idea, you’ll
-              find me on the football field or soaking in nature to keep my mind
-              clear and focused.
+              Hi, Myself Harsh Note: this portfolio will be changes in few hours  
             </p>
           </div>
           <div className="home-img">
