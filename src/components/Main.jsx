@@ -1,4 +1,3 @@
-import React from "react";
 import "./Main.css";
 
 function Main() {
@@ -25,7 +24,7 @@ function Main() {
             <a href="#">
               <strong>Netflix Intro Page:</strong>
             </a>{" "}
-            A sleek, interactive page inspired by Netflix's design.
+            A sleek, interactive page inspired by Netflixs design.
           </li>
           <li>
             <a href="#">
